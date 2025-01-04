@@ -1,0 +1,34 @@
+2025-01-01 21:08:38.711 [info] Using the Electron fetcher.
+2025-01-01 21:08:38.711 [info] Initializing Git extension service.
+2025-01-01 21:08:38.711 [info] Successfully activated the vscode.git extension.
+2025-01-01 21:08:38.711 [info] Enablement state of the vscode.git extension: true.
+2025-01-01 21:08:38.711 [info] Successfully registered Git commit message provider.
+2025-01-01 21:08:41.926 [info] Logged in as Vipin-V
+2025-01-01 21:08:42.916 [info] Got Copilot token for Vipin-V
+2025-01-01 21:08:43.130 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-01 21:08:43.130 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-01-01 21:08:43.176 [info] Registering default platform agent...
+2025-01-01 21:08:44.085 [info] Fetched model metadata in 1151ms 69ae4d1b-0d65-44d3-9195-e8bdbe3a2411
+2025-01-01 21:08:44.094 [info] activationBlocker from 'languageModelAccess' took for 5298ms
+2025-01-01 21:23:45.943 [info] Fetched model metadata in 1148ms 16a397bf-ddb2-4d3f-848c-5134f18d3df2
+2025-01-01 21:33:42.943 [info] Logged in as Vipin-V
+2025-01-01 21:33:43.963 [info] Got Copilot token for Vipin-V
+2025-01-01 21:33:44.025 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-02 08:40:23.377 [info] Logged in as Vipin-V
+2025-01-02 08:40:59.601 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-01-02 08:40:59.602 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-01-02 08:40:59.723 [info] Logged in as Vipin-V
+2025-01-02 08:41:20.347 [info] copilot token chat_enabled: undefined, sku: 
+2025-01-02 08:41:20.482 [info] Logged in as Vipin-V
+2025-01-02 08:41:44.791 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_NAME_NOT_RESOLVED"
+2025-01-02 08:41:44.791 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-01-02 08:41:44.791 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-01-02 08:41:44.791 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-01-02 08:41:44.791 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10511)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-01-02 08:50:23.263 [info] Logged in as Vipin-V

@@ -1,0 +1,42 @@
+2025-01-02 20:11:26.511 [info] Using the Electron fetcher.
+2025-01-02 20:11:26.511 [info] Initializing Git extension service.
+2025-01-02 20:11:26.511 [info] Successfully activated the vscode.git extension.
+2025-01-02 20:11:26.511 [info] Enablement state of the vscode.git extension: true.
+2025-01-02 20:11:26.511 [info] Successfully registered Git commit message provider.
+2025-01-02 20:11:33.617 [info] Logged in as Vipin-V
+2025-01-02 20:11:34.631 [info] Got Copilot token for Vipin-V
+2025-01-02 20:11:34.815 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-02 20:11:34.815 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-01-02 20:11:34.889 [info] Registering default platform agent...
+2025-01-02 20:11:35.829 [info] Fetched model metadata in 1178ms 90d55b99-db35-4d05-90ed-6f14aaf7804e
+2025-01-02 20:11:35.842 [info] activationBlocker from 'languageModelAccess' took for 2832ms
+2025-01-02 20:17:14.642 [info] message 0 returned. finish reason: [stop]
+2025-01-02 20:17:14.649 [info] request done: requestId: [5f0629dd-b1e0-47fa-a8d1-bd7720848af4] model deployment ID: []
+2025-01-02 20:17:17.295 [info] message 0 returned. finish reason: [stop]
+2025-01-02 20:17:17.299 [info] request done: requestId: [9aa2c0ab-1f0b-4064-806a-972ed0fffc5e] model deployment ID: []
+2025-01-02 20:26:38.247 [info] Fetched model metadata in 1152ms c39224f1-2a80-4e08-a568-99ffb596a853
+2025-01-02 20:36:34.639 [info] Logged in as Vipin-V
+2025-01-02 20:36:35.665 [info] Got Copilot token for Vipin-V
+2025-01-02 20:36:35.681 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-02 20:51:36.981 [info] Fetched model metadata in 1264ms aba651e2-8d96-4270-b0f7-bd0518b93f86
+2025-01-02 21:01:35.685 [info] Logged in as Vipin-V
+2025-01-02 21:01:36.751 [info] Got Copilot token for Vipin-V
+2025-01-02 21:01:36.794 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-02 21:16:37.977 [info] Fetched model metadata in 1136ms 06400bf6-730e-4ee2-b2d3-1c7811cfcb9d
+2025-01-02 21:26:36.774 [info] Logged in as Vipin-V
+2025-01-02 21:26:37.754 [info] Got Copilot token for Vipin-V
+2025-01-02 21:26:37.810 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-02 21:41:38.969 [info] Fetched model metadata in 1103ms 8c8c659f-d704-4db7-a6a4-250ee839962f
+2025-01-02 21:51:37.784 [info] Logged in as Vipin-V
+2025-01-02 21:51:38.725 [info] Got Copilot token for Vipin-V
+2025-01-02 21:51:38.774 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-02 22:06:39.883 [info] Fetched model metadata in 1058ms bcaaf64b-7326-4626-99cb-ccd3c89815d8
+2025-01-02 22:16:38.749 [info] Logged in as Vipin-V
+2025-01-02 22:16:39.684 [info] Got Copilot token for Vipin-V
+2025-01-02 22:16:39.705 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-02 22:31:40.800 [info] Fetched model metadata in 1080ms 94a1de0f-b241-4522-bc6a-79d117ecab79
+2025-01-02 22:41:39.697 [info] Logged in as Vipin-V
+2025-01-02 22:41:40.791 [info] Got Copilot token for Vipin-V
+2025-01-02 22:41:40.858 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-01-02 22:41:41.879 [info] Fetched model metadata in 1007ms 68d657d6-2978-407c-a7bb-7f1f89e8f5a2
+2025-01-02 22:56:43.141 [info] Fetched model metadata in 1239ms 15a06b61-b6ff-4e84-a847-22f04f3a341c

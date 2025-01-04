@@ -1,0 +1,3 @@
+2025-01-02 13:25:10.726 [error] [network] #16: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-02 13:25:13.247 [error] [network] #17: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-02 13:25:13.720 [error] [network] #18: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_INTERNET_DISCONNECTED

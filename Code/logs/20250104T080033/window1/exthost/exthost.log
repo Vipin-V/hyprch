@@ -1,0 +1,85 @@
+2025-01-04 08:00:49.612 [info] Extension host with pid 30870 started
+2025-01-04 08:00:49.612 [info] Skipping acquiring lock for /home/hacker/.config/Code/User/workspaceStorage/8906085edf28759165777860f4fe6159.
+2025-01-04 08:00:50.428 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-04 08:00:50.603 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-04 08:00:50.937 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-01-04 08:00:52.220 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-04 08:00:52.407 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-01-04 08:00:52.743 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2025-01-04 08:00:52.898 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2025-01-04 08:00:53.592 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-04 08:00:53.897 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-04 08:00:54.991 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-04 08:00:55.260 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-04 08:00:55.886 [info] Eager extensions activated
+2025-01-04 08:00:56.106 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:00:56.382 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:00:56.680 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:00:56.795 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:00:57.068 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:00:57.792 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:00:58.162 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:00:59.717 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:01:03.270 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:01:03.945 [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:01:04.040 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:01:04.204 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:04:56.498 [info] Extension host terminating: renderer closed the MessagePort
+2025-01-04 08:04:56.694 [info] Extension host with pid 30870 exiting with code 0
+2025-01-04 08:05:01.210 [info] Extension host with pid 35287 started
+2025-01-04 08:05:01.210 [info] Skipping acquiring lock for /home/hacker/.config/Code/User/workspaceStorage/cab2d66afd41a7be57ff02d55455a4f7.
+2025-01-04 08:05:01.457 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-04 08:05:01.704 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-04 08:05:01.715 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-01-04 08:05:01.815 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2025-01-04 08:05:01.821 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2025-01-04 08:05:02.010 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-04 08:05:02.239 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-04 08:05:03.113 [info] Eager extensions activated
+2025-01-04 08:05:03.469 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:05:03.492 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:05:03.557 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:05:03.568 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:05:03.695 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:05:03.934 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:05:03.990 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:05:05.212 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:05:06.373 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:05:06.465 [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:05:06.470 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:05:06.488 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-04 08:05:14.121 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/storage.json.vsctmp'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-04 08:05:14.125 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-04 08:05:14.139 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/workspaceStorage/cab2d66afd41a7be57ff02d55455a4f7/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-04 08:05:14.760 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-04 08:05:16.227 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-04 08:05:24.608 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/.org.chromium.Chromium.wfki3c'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-04 08:05:34.551 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-04 08:09:05.048 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/storage.json.vsctmp'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-04 08:09:53.597 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1011
+2025-01-04 08:09:54.371 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1011
+2025-01-04 08:09:55.775 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)

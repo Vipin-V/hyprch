@@ -1,0 +1,239 @@
+2025-01-02 13:03:30.882 [info] Extension host with pid 14928 started
+2025-01-02 13:03:30.882 [info] Skipping acquiring lock for /home/hacker/.config/Code/User/workspaceStorage/cab2d66afd41a7be57ff02d55455a4f7.
+2025-01-02 13:03:31.180 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-02 13:03:31.459 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-02 13:03:31.467 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-01-02 13:03:31.541 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2025-01-02 13:03:31.546 [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+2025-01-02 13:03:31.673 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-02 13:03:31.940 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-02 13:03:32.267 [info] Eager extensions activated
+2025-01-02 13:03:32.274 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-02 13:03:32.360 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-02 13:03:32.364 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-02 13:03:32.410 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-01-02 13:03:32.419 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-01-02 13:03:32.518 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-02 13:03:32.717 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2025-01-02 13:03:32.776 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-01-02 13:03:34.378 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-01-02 13:03:35.528 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2025-01-02 13:03:35.594 [info] ExtensionService#_doActivateExtension monokai.theme-monokai-pro-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-02 13:03:35.598 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-01-02 13:03:35.611 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-01-02 13:03:36.974 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-02 13:03:37.033 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-02 13:03:37.200 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-02 13:03:42.014 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:03:42.018 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/workspaceStorage/cab2d66afd41a7be57ff02d55455a4f7/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:03:42.020 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/.org.chromium.Chromium.iIxazi'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:04:08.289 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/.org.chromium.Chromium.pIoYDK'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:04:15.699 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.hBgZDV'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:05:28.649 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/storage.json.vsctmp'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:06:35.001 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.gNfX2I'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:13:38.785 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:16:05.062 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.4pNRP9'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:25:22.154 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/workspaceStorage/cab2d66afd41a7be57ff02d55455a4f7/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:25:26.399 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.fzS2Wb'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:25:47.411 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/.org.chromium.Chromium.mtaT7J'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:26:02.848 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:26:16.120 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-01-02 13:26:17.439 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:26:45.340 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/trashrc.lock'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:26:58.936 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.40ebux'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:27:03.883 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/..com.vivaldi.Vivaldi.muYJ8C'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:27:24.382 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.pIOsjz'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:27:36.150 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:27:40.212 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.6v25ps'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:27:55.364 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:28:08.147 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.fMbUw4'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:28:11.701 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/..com.vivaldi.Vivaldi.nEBFsY'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:28:37.478 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3625
+2025-01-02 13:28:38.621 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3625
+2025-01-02 13:28:42.598 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:29:24.991 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/..com.vivaldi.Vivaldi.JegXdW'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:29:25.905 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.Nk0VKm'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:31:05.023 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.0uCZtC'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:31:07.578 [error] Error: Failed to execute git
+    at t.Git._exec (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:929600)
+    at t.Git.exec (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:928668)
+    at W.exec (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:934196)
+    at W.getRemotesGit (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:955740)
+    at W.getRemotes (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:955472)
+    at async Promise.all (index 1)
+    at O._updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1060211)
+    at O.updateModelState (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1060036)
+    at O.run (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1059244)
+    at O.status (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1040047)
+2025-01-02 13:31:11.153 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:31:20.468 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/.org.chromium.Chromium.eDAmaJ'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:31:32.110 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3624
+2025-01-02 13:31:33.642 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3624
+2025-01-02 13:31:48.898 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3624
+2025-01-02 13:31:51.720 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:32:10.792 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.RmDFJt'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:32:36.600 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.ZQ4skK'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:34:28.831 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.aDKuRG'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:35:02.528 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/..com.vivaldi.Vivaldi.WODhmx'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:36:52.498 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/.org.chromium.Chromium.Xw3FyJ'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:37:17.974 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/Code/User/globalStorage/state.vscdb-journal'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:37:24.503 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.FbjFKC'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:39:26.401 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/..com.vivaldi.Vivaldi.vKJ2lo'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:40:02.423 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.NTVq57'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:40:03.046 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.XZQzAF'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:40:18.736 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.l0cEMO'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:40:30.737 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.ye7t99'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:41:02.885 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/Storage/ext/mpognobbkildjkofajifpdfhcoklimli/def/..com.vivaldi.Vivaldi.BXddmh'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:41:29.428 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.9API6f'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:41:51.799 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.7ZCuFf'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:41:53.776 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.rZ7xdk'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:42:03.694 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.tgl8CC'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:42:30.355 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/Default/..com.vivaldi.Vivaldi.VJMc0q'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)
+2025-01-02 13:42:34.859 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/hacker/.config/vivaldi/..com.vivaldi.Vivaldi.tUGbws'
+    at Function.e (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:9057)
+    at Object.stat (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:7007)
+    at kh.value (/home/hacker/.vscode/extensions/github.copilot-chat-0.23.2/dist/extension.js:397:14992)

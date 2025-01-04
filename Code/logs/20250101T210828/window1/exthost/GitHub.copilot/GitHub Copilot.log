@@ -1,0 +1,59 @@
+2025-01-01 21:08:41.693 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/hacker/.vscode/extensions/github.copilot-1.254.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at yae.removeExpiredCertificates (/home/hacker/.vscode/extensions/github.copilot-1.254.0/lib/src/network/certificateReaders.ts:77:32)
+    at yae.getAllRootCAs (/home/hacker/.vscode/extensions/github.copilot-1.254.0/lib/src/network/certificateReaders.ts:68:38)
+    at eme.createSecureContext (/home/hacker/.vscode/extensions/github.copilot-1.254.0/lib/src/network/certificates.ts:46:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-01-01 21:08:41.693 [warning] [certificates] Failed to parse certificate # ACCVRAIZ1
+ Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /home/hacker/.vscode/extensions/github.copilot-1.254.0/lib/src/network/certificateReaders.ts:79:36
+    at Array.filter (<anonymous>)
+    at yae.removeExpiredCertificates (/home/hacker/.vscode/extensions/github.copilot-1.254.0/lib/src/network/certificateReaders.ts:77:32)
+    at yae.getAllRootCAs (/home/hacker/.vscode/extensions/github.copilot-1.254.0/lib/src/network/certificateReaders.ts:68:38)
+    at eme.createSecureContext (/home/hacker/.vscode/extensions/github.copilot-1.254.0/lib/src/network/certificates.ts:46:23) {
+  opensslErrorStack: [
+    'error:0c00006d:ASN.1 encoding routines:OPENSSL_internal:DECODE_ERROR'
+  ],
+  library: 'PEM routines',
+  function: 'OPENSSL_internal',
+  reason: 'NO_START_LINE',
+  code: 'ERR_OSSL_PEM_NO_START_LINE'
+}
+2025-01-01 21:08:41.693 [info] [certificates] Removed 2 expired certificates
+2025-01-01 21:08:42.445 [info] [fetcher] Using Helix fetcher.
+2025-01-01 21:08:43.651 [info] [fetcher] Using Helix fetcher.
+2025-01-01 21:08:43.651 [info] [code-referencing] Public code references are enabled.
+2025-01-01 21:09:08.368 [warning] [relatedFiles] unknown language properties
+2025-01-01 21:09:14.097 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 1339 ms
+2025-01-01 21:09:14.121 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-01 21:09:14.125 [info] [streamChoices] request done: headerRequestId: [dc79b52f-629f-413e-a20f-0021085dcb02] model deployment ID: [d085-20240927001215]
+2025-01-01 21:14:27.137 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 1163 ms
+2025-01-01 21:14:27.148 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-01 21:14:27.163 [info] [streamChoices] request done: headerRequestId: [0f247651-dd5e-4595-a04b-bdfebc5d3818] model deployment ID: [d110-20240926212926]
+2025-01-01 21:14:27.698 [info] [fetchCompletions] request.response: [https://proxy.individual.githubcopilot.com/v1/engines/copilot-codex/completions] took 336 ms
+2025-01-01 21:14:27.703 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-01-01 21:14:27.705 [info] [streamChoices] request done: headerRequestId: [5ca4e328-313f-45f9-9a2c-790bf6f3803a] model deployment ID: [d110-20240926212926]
+2025-01-01 21:33:43.017 [info] [fetcher] Using Helix fetcher.
+2025-01-01 21:33:43.017 [info] [code-referencing] Public code references are enabled.
+2025-01-02 09:52:50.872 [error] [default] Error sending telemetry FetchError: The pending stream has been canceled (caused by: getaddrinfo EAI_AGAIN telemetry.individual.githubcopilot.com)
+    at fetch (/home/hacker/.vscode/extensions/github.copilot-1.254.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/hacker/.vscode/extensions/github.copilot-1.254.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at tme.fetch (/home/hacker/.vscode/extensions/github.copilot-1.254.0/lib/src/network/helix.ts:93:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ERR_HTTP2_STREAM_CANCEL',
+  errno: undefined,
+  erroredSysCall: undefined
+}

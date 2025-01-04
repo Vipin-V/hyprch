@@ -1,0 +1,23 @@
+2025-01-02 12:21:34.578 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-02 12:21:34.578 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-02 12:21:34.579 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-02 12:21:36.253 [info] Started local extension host with pid 11273.
+2025-01-02 12:21:41.308 [info] Settings Sync: Token updated for the account Vipin-V
+2025-01-02 12:21:41.317 [info] Settings Sync: Account status changed from uninitialized to available
+2025-01-02 12:21:42.518 [info] [perf] Render performance baseline is 64ms
+2025-01-02 12:21:47.390 [info] Extension host (LocalProcess pid: 11273) is unresponsive.
+2025-01-02 12:21:47.790 [info] Extension host (LocalProcess pid: 11273) is responsive.
+2025-01-02 12:21:47.791 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-01-02 12:21:49.061 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-01-02 12:21:49.262 [warning] UNRESPONSIVE extension host: 'esbenp.prettier-vscode' took 62.66020090058885% of 1.809ms, saved PROFILE here: 'file:///tmp/exthost-d583b0.cpuprofile'
+2025-01-02 12:21:57.620 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-02 12:21:57.621 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-02 12:21:57.621 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-02 12:21:58.112 [info] Started local extension host with pid 11437.
+2025-01-02 12:22:00.290 [info] Settings Sync: Token updated for the account Vipin-V
+2025-01-02 12:22:00.298 [info] Settings Sync: Account status changed from uninitialized to available
+2025-01-02 12:22:01.214 [info] [perf] Render performance baseline is 126ms
+2025-01-02 12:22:09.134 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-01-02 12:22:09.135 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-01-02 12:22:09.178 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-01-02 12:22:09.180 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess

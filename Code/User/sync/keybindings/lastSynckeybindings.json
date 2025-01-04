@@ -1,0 +1,1 @@
+{"ref":"c6908258-3d70-493a-9bcc-2d4cde15b179","syncData":{"version":2,"machineId":"4b0c0af9-5b16-4a43-a949-a1c2a9f79294","content":"{\"linux\":\"// Place your key bindings in this file to override the defaultsauto[]\\n[\\n    {\\n        \\\"key\\\": \\\"ctrl+d\\\",\\n        \\\"command\\\": \\\"editor.action.duplicateSelection\\\"\\n    }\\n]\",\"windows\":\"[]\"}"}}

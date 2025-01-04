@@ -1,0 +1,23 @@
+update
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   Code/CachedData/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/chrome/js/index-dir/the-real-index
+#	modified:   Code/User/globalStorage/state.vscdb
+#	modified:   Code/User/sync/settings/lastSyncsettings.json
+#	modified:   Code/User/workspaceStorage/cab2d66afd41a7be57ff02d55455a4f7/state.vscdb
+#	modified:   Code/logs/20250102T122125/userDataSync.log
+#	modified:   Code/logs/20250102T122125/window1/exthost/exthost.log
+#	modified:   Code/logs/20250102T122125/window1/exthost/vscode.git/Git.log
+#
+# Changes not staged for commit:
+#	modified:   Code/Cache/Cache_Data/index-dir/the-real-index
+#	modified:   Code/User/globalStorage/state.vscdb
+#	modified:   Code/User/globalStorage/storage.json
+#	modified:   Code/User/workspaceStorage/cab2d66afd41a7be57ff02d55455a4f7/state.vscdb
+#	modified:   Code/logs/20250102T122125/userDataSync.log
+#	modified:   Code/logs/20250102T122125/window1/exthost/exthost.log
+#	modified:   Code/logs/20250102T122125/window1/exthost/vscode.git/Git.log
+#

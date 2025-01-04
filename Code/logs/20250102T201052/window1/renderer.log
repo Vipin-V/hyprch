@@ -1,0 +1,22 @@
+2025-01-02 20:11:01.737 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-02 20:11:01.738 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-02 20:11:01.738 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-02 20:11:03.266 [info] Started local extension host with pid 103135.
+2025-01-02 20:11:07.638 [warning] Error getting latest version of the extension undefined_publisher.wallbash 400
+2025-01-02 20:11:08.788 [info] Settings Sync: Token updated for the account Vipin-V
+2025-01-02 20:11:08.844 [info] Settings Sync: Account status changed from uninitialized to available
+2025-01-02 20:11:08.916 [info] [perf] Render performance baseline is 110ms
+2025-01-02 20:11:20.878 [info] Extension host (LocalProcess pid: 103135) is unresponsive.
+2025-01-02 20:11:21.231 [info] Extension host (LocalProcess pid: 103135) is responsive.
+2025-01-02 20:11:21.231 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-01-02 20:11:22.856 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-01-02 20:11:23.216 [warning] UNRESPONSIVE extension host: 'vscode.typescript-language-features' took 75.67849686847599% of 2.9ms, saved PROFILE here: 'file:///tmp/exthost-549911.cpuprofile'
+2025-01-02 20:11:30.509 [info] Extension host (LocalProcess pid: 103135) is unresponsive.
+2025-01-02 20:11:31.443 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-01-02 20:11:32.885 [info] Extension host (LocalProcess pid: 103135) is responsive.
+2025-01-02 20:11:32.887 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-01-02 20:11:33.359 [warning] UNRESPONSIVE extension host: 'github.copilot' took 59.81131607006645% of 867.227ms, saved PROFILE here: 'file:///tmp/exthost-eb3d31.cpuprofile'
+2025-01-02 20:11:34.795 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-01-02 20:11:34.802 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-01-02 20:11:34.863 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-01-02 20:11:34.865 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess

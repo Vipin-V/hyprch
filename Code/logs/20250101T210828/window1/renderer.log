@@ -1,0 +1,33 @@
+2025-01-01 21:08:29.317 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-01 21:08:29.318 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-01 21:08:29.318 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-01 21:08:30.264 [info] Started local extension host with pid 11561.
+2025-01-01 21:08:32.889 [info] Settings Sync: Token updated for the account Vipin-V
+2025-01-01 21:08:32.963 [info] Settings Sync: Account status changed from uninitialized to available
+2025-01-01 21:08:33.566 [info] [perf] Render performance baseline is 125ms
+2025-01-01 21:08:43.106 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-01-01 21:08:43.107 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-01-01 21:08:43.153 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-01-01 21:08:43.156 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-01-01 21:15:26.873 [error] lock() request could not be registered.: Error: lock() request could not be registered.
+2025-01-01 21:15:28.632 [error] lock() request could not be registered.: Error: lock() request could not be registered.
+2025-01-01 21:15:31.649 [error] lock() request could not be registered.: Error: lock() request could not be registered.
+2025-01-02 08:35:40.576 [error] [network] #29: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-01-02 08:35:40.577 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-01-02 08:41:10.844 [error] [network] #30: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-01-02 08:41:10.968 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-01-02 08:46:30.583 [error] [network] #31: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-01-02 08:46:30.706 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-01-02 09:52:50.875 [error] [Extension Host] [default] Error sending telemetry FetchError: The pending stream has been canceled (caused by: getaddrinfo EAI_AGAIN telemetry.individual.githubcopilot.com)
+    at fetch (/home/hacker/.vscode/extensions/github.copilot-1.254.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:99:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at cachingFetch (/home/hacker/.vscode/extensions/github.copilot-1.254.0/node_modules/@adobe/helix-fetch/src/fetch/index.js:288:16)
+    at tme.fetch (/home/hacker/.vscode/extensions/github.copilot-1.254.0/lib/src/network/helix.ts:93:22) {
+  type: 'system',
+  _name: 'FetchError',
+  code: 'ERR_HTTP2_STREAM_CANCEL',
+  errno: undefined,
+  erroredSysCall: undefined
+}
+2025-01-02 09:53:51.238 [error] [network] #32: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-01-02 09:53:51.369 [warning] Failed to fetch chat participant registry Failed to fetch

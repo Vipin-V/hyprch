@@ -1,0 +1,52 @@
+{
+  "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+  "git.confirmSync": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "editor.linkedEditing": true,
+  "editor.wordWrap": "on",
+  "editor.guides.bracketPairs": "active",
+  "workbench.colorTheme": "wallbash",
+  "explorer.confirmDragAndDrop": false,
+  "livePreview.notifyOnOpenLooseFile": false,
+  "todohighlight.isCaseSensitive": true,
+  "todohighlight.keywords": [
+    {
+      "text": "VIDEO",
+      "color": "#333",
+      "backgroundColor": "#3498db"
+    },
+    {
+      "text": "FIXME",
+      "color": "#333",
+      "backgroundColor": "#e67e22"
+    },
+    {
+      "text": "LEC",
+      "color": "#333",
+      "backgroundColor": "#f1c40f"
+    },
+    {
+      "text": "BUG",
+      "color": "#333",
+      "backgroundColor": "#e74c3c"
+    },
+    {
+      "text": "TODO",
+      "color": "#333",
+      "backgroundColor": "#2ecc71"
+    }
+  ],
+  "workbench.activityBar.location": "hidden",
+  "window.menuBarVisibility": "toggle",
+  "cmake.pinnedCommands": [
+    "workbench.action.tasks.configureTaskRunner",
+    "workbench.action.tasks.runTask"
+  ],
+  "workbench.startupEditor": "none"
+}

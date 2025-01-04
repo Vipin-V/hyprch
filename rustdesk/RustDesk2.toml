@@ -1,0 +1,9 @@
+rendezvous_server = 'rs-ny.rustdesk.com:21116'
+nat_type = 2
+serial = 0
+unlock_pin = ''
+trusted_devices = ''
+
+[options]
+av1-test = 'N'
+local-ip-addr = '192.168.1.8'
